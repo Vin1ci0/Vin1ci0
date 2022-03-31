@@ -11,7 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/528/528260.png">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png">
 </div>
   
   ##
