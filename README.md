@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href=["https://www.linkedin.com/in/vinicio-oliveira-b1b2a3193/)"><i>Vinício Oliveira</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href=["https://www.linkedin.com/in/vinicio-oliveira-b1b2a3193/)"](url)><i>Vinício Oliveira</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a 
   </a><br>
   <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
