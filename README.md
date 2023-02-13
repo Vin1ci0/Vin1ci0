@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/vinicio-oliveira-b1b2a3193/)"><i>Vinício Oliveira</i></a> 😃️</h1>
-  <p align="center">Estudo Java e JavaScript e compartilho meu aprendizado aqui no meu GitHub 
+  <p align="center">Estudo minhas linguagens favoritas e compartilho meu aprendizado aqui no meu GitHub 
   <p align="center">Dá uma olhadinha aí e vem codar comigo, tua ajuda será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
 
