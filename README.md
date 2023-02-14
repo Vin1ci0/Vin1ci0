@@ -14,7 +14,7 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="[https://www.svgrepo.com/show/353924/java.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F273749%2Fnode-js&psig=AOvVaw3Tgnx8QF6ogaPR1O0CRHDV&ust=1676419163164000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMDYm5jak_0CFQAAAAAdAAAAABAD)">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
