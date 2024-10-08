@@ -8,7 +8,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carolbarbosa101&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![snake gif](https://github.com/Vin1ci0/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
