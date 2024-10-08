@@ -1,4 +1,4 @@
-<img width=100% src="https://github.com/user-attachments/assets/799712d5-0c6d-468f-9f4b-0601fb0d6ee5"/>
+<img width=100% src="https://github.com/user-attachments/assets/3466ccc3-5697-46fd-8ff9-516f9f3c8028"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caroline+Barbosa;I'm+25+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
