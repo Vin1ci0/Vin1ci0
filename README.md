@@ -14,10 +14,10 @@
   <img align="center" alt="RH" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/redhat.svg">
   <img align="center" alt="Kube" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/kubernetes.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/linux.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-<img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg">
-<img align="center" alt="Azure" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/azure.svg">
-<img align="center" alt="BS" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/bash.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/docker.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/aws.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/azure.svg">
+  <img align="center" alt="BS" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/bash.svg">
 </div>
 
 
