@@ -9,11 +9,11 @@
  </div>
  
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jenk" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/jenkins.svg">
   <img align="center" alt="Ansible" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/ansible.svg">
   <img align="center" alt="RH" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/redhat.svg">
   <img align="center" alt="Kube" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/kubernetes.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/linux.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Azure" height="30" width="40" src="https://github.com/xandemon/developer-icons/blob/main/icons/azure.svg">
